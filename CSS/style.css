@@ -1,0 +1,84 @@
+.period {
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left:5px;
+}
+.first {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+.second {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+.third {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+.fourth {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+.fifth {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+.sixth {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+.seventh {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+.eighth {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+.ninth {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+.tenth {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+.eleventh {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+div {
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    padding-left: 800px;
+    display: block;
+}
